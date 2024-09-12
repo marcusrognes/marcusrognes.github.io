@@ -38,9 +38,9 @@ function App(){
 }
 ```
 
-> Link\`s are just simple a tags with some onClick handling.
+> Links are just simple a tags with some onClick handling.
 >
-> NavLink\`s adds the activeClass (default is "active") if the current route matches the href
+> NavLinks adds the activeClass (default is "active") if the current route matches the href
 
 `Page.tsx`
 ```tsx
